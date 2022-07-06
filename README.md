@@ -3,10 +3,6 @@
 # Samar Ibrahim
 Network engineer, Cloud architect, Devops traniee
 
-<div id="email address">
-<a href="ibrahemsamar57@gmail.com">ibrahemsamar57@gmail.com</a>
-</div>
-
 
 ## Currently
 
