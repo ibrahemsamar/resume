@@ -29,4 +29,4 @@ King Abdulaziz University
 
 
 ## Projects
-Senior Project "Pationts' Care"
+Senior Project called "Pationts' Care"
